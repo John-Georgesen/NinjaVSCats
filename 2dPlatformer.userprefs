@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-UnityScript.unityproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\playerMovement.js">
+    <Files>
+      <File FileName="Assets\scripts\playerMovement.js" Line="14" Column="3" />
+      <File FileName="Assets\scripts\jumpButton.js" Line="13" Column="3" />
+      <File FileName="Assets\scripts\catScript.js" Line="12" Column="47" />
+      <File FileName="Assets\scripts\moveStar.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\cameraScript.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Ann G -Laptop\Unity\Workspace\2dPlatformer\Assets\scripts\playerMovement.js" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
